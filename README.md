@@ -1,6 +1,6 @@
 To use: 
 ------
-Save all files in your extension directory.
+Save all files in your extension directory.<br />
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" at the top right.
 Click "Load unpacked" and select your extension's directory.
